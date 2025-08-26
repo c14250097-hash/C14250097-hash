@@ -1,0 +1,59 @@
+# 🚀 Analisis DIKW: Pembelajaran Jarak Jauh dengan Zoom  
+
+> Studi kasus sederhana menggunakan kerangka **DIKW (Data, Information, Knowledge, Wisdom)** untuk memahami efektivitas dan tantangan pembelajaran online melalui Zoom.  
+
+---
+
+## 📊 DATA (Fakta Mentah)  
+Analisis dimulai dari data kegiatan pertemuan online.  
+
+- **Mahasiswa Terdaftar**: `100` orang  
+- **Mahasiswa Hadir**: `70` orang  
+- **Mahasiswa Aktif Bertanya/Tanggapan di Chat**: `50` orang  
+- **Mahasiswa Pasif (hanya mendengar)**: `20` orang  
+
+---
+
+## 💡 INFORMATION (Konteks dari Data)  
+Dari data mentah, dapat diperoleh informasi kontekstual:  
+
+> Dari **100 mahasiswa terdaftar**, hanya **70 mahasiswa (70%)** yang benar-benar hadir dalam pertemuan.  
+
+> Dari **70 mahasiswa yang hadir**, hanya sekitar **71% (50 orang)** yang berpartisipasi aktif melalui chat.  
+
+> Hal ini menunjukkan **tingkat keterlibatan aktif belum merata**, karena masih ada mahasiswa yang hanya berperan sebagai pendengar pasif.  
+
+---
+
+## 🧠 KNOWLEDGE (Pengetahuan yang Didapat)  
+Informasi di atas menghasilkan beberapa pengetahuan penting:  
+
+1. **Kehadiran ≠ Keterlibatan**  
+   Tidak semua mahasiswa yang hadir ikut aktif berpartisipasi. Kehadiran tinggi tidak menjamin keterlibatan yang maksimal.  
+
+2. **Pola Interaksi di Zoom**  
+   Sebagian besar interaksi terjadi melalui fitur **chat**, bukan berbicara langsung. Hal ini bisa disebabkan oleh faktor kenyamanan, keterbatasan jaringan internet, atau perangkat yang digunakan.  
+
+3. **Tantangan Partisipasi**  
+   Ada kesenjangan antara jumlah mahasiswa yang hadir dengan yang benar-benar aktif, sehingga efektivitas pembelajaran daring masih belum optimal.  
+
+---
+
+## 🎯 WISDOM (Kebijaksanaan & Rencana Aksi)  
+Berdasarkan data, informasi, dan pengetahuan yang diperoleh, langkah bijak berikut dapat dilakukan untuk meningkatkan kualitas pembelajaran online:  
+
+### STRATEGI YANG AKAN DILAKUKAN:  
+
+- [ ] **Meningkatkan Interaktivitas Kelas**  
+  - Menggunakan fitur **breakout room** untuk diskusi kelompok kecil.  
+  - Memberikan **kuis interaktif** selama pembelajaran agar mahasiswa lebih aktif.  
+
+- [ ] **Memanfaatkan Variasi Media**  
+  - Menyajikan materi dengan format visual dan interaktif agar lebih mudah dipahami secara daring.  
+  - Mengombinasikan presentasi, video pendek, dan aktivitas praktis.  
+
+- [ ] **Mengatasi Kendala Teknis & Psikologis**  
+  - Memberi alternatif partisipasi (misalnya: angket, polling, atau forum asinkron).  
+  - Menciptakan suasana kelas yang inklusif sehingga mahasiswa lebih nyaman untuk berbicara langsung, bukan hanya lewat chat.  
+
+Dengan strategi ini, **tingkat partisipasi aktif** mahasiswa diharapkan meningkat dan efektivitas pembelajaran jarak jauh melalui Zoom dapat lebih optimal.
